@@ -38,12 +38,9 @@ Criterios de calificación:
 - Como instrumentos de evaluación se podrán emplear:
   - **Pruebas escritas de carácter teórico o práctico**: pruebas de tipo test o con preguntas de desarrollo de contenidos de la unidad didáctica.
   - **Pruebas prácticas**: realización de ejercicios vinculados con los contenidos de la unidad didáctica, realizados en papel o sobre el ordenador.
-  - **Tareas entregables**.
 - La calificación de cada una de las evaluaciones ordinarias se expresará en valores enteros de 1 a 10.
 - Una evaluación se considerará superada si la calificación alcanzada es **igual o superior a 5**.
-- La nota de la evaluación se calculará como la media entre:
-  - 10% de la nota de las tareas entregables realizadas durante el curso.
-  - 90% de la nota del examen.
+- La nota de la evaluación se calculará como la media entre los exámenes realizados en cada evaluación aplicando el peso correspondiente a cada tema o temas incluidos en dicho examen.
 - En cada examen se indicará con detalle el cálculo de la calificación, en base a las unidades didácticas incluidas en el mismo.
 - Para superar el módulo, es necesario superar las tres evaluaciones. De no ser así, deberá superar en la prueba final de junio los contenidos de las evaluaciones no superadas (ver apartado con procedimiento para la recuperación de las partes no superadas).
 - En cuanto a la calificación final del módulo, se calculará haciendo la media (ponderada con el peso de cada UD en la calificación) de las calificaciones obtenidas en cada evaluación ordinaria.

@@ -94,7 +94,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} resuacode by Daniel Resúa.<br>Built with Docusaurus.`,
+      copyright: `Agradecimientos al profesor Daniel Martiñán por la cesión de gran parte del contenido de este sitio.<br>Copyright © ${new Date().getFullYear()} resuacode by Daniel Resúa.<br>Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
