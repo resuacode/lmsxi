@@ -34,7 +34,7 @@ Un documento XML almacena la información de usuarios/as y tiene las siguientes 
 - Dentro del elemento usuarios hay varios elementos usuario.
 - Un elemento usuario contiene los elementos id, nombre, apellido, email, edad, ip y pais.
 
-En [este enlace](https://linguaxes-marcas-2025-26.vercel.app/assets/files/ud6_ejer1_example.xml) puedes encontrar un ejemplo de fichero XML con la estructura descrita anteriormente. Para realizar esta actividad, puedes utilizar el fichero XML de ejemplo o crear uno nuevo con la misma estructura, pero con datos diferentes.
+En [este enlace](/assets/files/ud6_ejer1_example.xml) puedes encontrar un ejemplo de fichero XML con la estructura descrita anteriormente. Para realizar esta actividad, puedes utilizar el fichero XML de ejemplo o crear uno nuevo con la misma estructura, pero con datos diferentes.
 
 Escribe las consultas XQuery que devuelvan:
 
@@ -77,7 +77,7 @@ Un documento XML almacena la información de impresoras y tiene las siguientes c
 - El atributo `numSerie` contiene un identificador único en todo el documento.
 Documento XML
 
-En [este enlace](https://linguaxes-marcas-2025-26.vercel.app/assets/files/ud6_ejer2_example.xml) puedes encontrar un ejemplo de fichero XML con la estructura descrita anteriormente. Para realizar esta actividad, puedes utilizar el fichero XML de ejemplo o crear uno nuevo con la misma estructura, pero con datos diferentes.
+En [este enlace](/assets/files/ud6_ejer2_example.xml) puedes encontrar un ejemplo de fichero XML con la estructura descrita anteriormente. Para realizar esta actividad, puedes utilizar el fichero XML de ejemplo o crear uno nuevo con la misma estructura, pero con datos diferentes.
 
 Escribe las consultas XQuery que devuelvan:
 
@@ -118,7 +118,7 @@ Un documento XML almacena la información de artistas y tiene las siguientes car
 - Además, cada artista tiene dos atributos: `id` y `wikipedia`.
 - El atributo `id` contiene un identificador único en todo el documento.
 
-En [este enlace](https://linguaxes-marcas-2025-26.vercel.app/assets/files/ud6_ejer3_example.xml) puedes encontrar un ejemplo de fichero XML con la estructura descrita anteriormente. Para realizar esta actividad, puedes utilizar el fichero XML de ejemplo o crear uno nuevo con la misma estructura, pero con datos diferentes.
+En [este enlace](/assets/files/ud6_ejer3_example.xml) puedes encontrar un ejemplo de fichero XML con la estructura descrita anteriormente. Para realizar esta actividad, puedes utilizar el fichero XML de ejemplo o crear uno nuevo con la misma estructura, pero con datos diferentes.
 
 Teniendo en cuenta las características descritas, escribe las consultas XQuery que devuelvan:
 

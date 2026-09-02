@@ -422,11 +422,7 @@ Para poder comprobar que funcionan correctamente y ver su efecto, tenemos que te
 - Hacer zoom a la página con CTRL + +. De esta manera, al ampliar el tamaño de la fuente, tenemos que desplazarnos entre secciones.
 - Reducir el tamaño de la ventana del navegador.
 
-Si optamos por reducir el tamaño de ventana del navegador, nos quedaría así:
-
-![Image](https://mp0373-lmsxi.vercel.app/assets/images/206-scroll-148470cbac0bbef5462d0358fc08bf0a.webp)
-
-Podemos observar que, de esta forma, aparece la barra de desplazamiento vertical, lo que nos permite comprobar el funcionamiento de los enlaces intradocumentales.
+Si optamos por reducir el tamaño de ventana del navegador, aparecerá la barra de desplazamiento vertical, lo que nos permite comprobar el funcionamiento de los enlaces intradocumentales.
 :::
 
 El texto base es el siguiente:

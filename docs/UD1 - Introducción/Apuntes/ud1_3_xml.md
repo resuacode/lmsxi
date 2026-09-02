@@ -221,7 +221,7 @@ Los elementos están delimitados por una etiqueta de **apertura** y una etiqueta
 - Etiqueta de apertura: `<libro>`  
 - Etiqueta de cierre: `</libro>`
 
-A su vez, los elementos pueden estar formados por otros **elementos** y/o por [**atributos**](https://mp0373-lmsxi.vercel.app/docs/unidades/01/contenidos/xml/atributos). Por ejemplo:
+A su vez, los elementos pueden estar formados por otros **elementos** y/o por [**atributos**](#atributos). Por ejemplo:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>

@@ -1,62 +1,54 @@
-# 📘 Apuntes del módulo Linguaxes de Marcas e Sistemas de Xestión da Información — Docusaurus
+# LMSXI — Linguaxes de Marcas e Sistemas de Xestión da Información
 
-Este repositorio contiene los apuntes, documentación y contenidos didácticos desarrollados con [Docusaurus](https://docusaurus.io/) para el módulo de Linguaxes de Marcas e Sistemas de Xestión da Información.
+Apuntes y materiales didácticos del módulo LMSXI (curso 2026-27, DAW), publicados con [Docusaurus](https://docusaurus.io/).
 
-## 🚀 Requisitos
+Sitio: [https://resuacode.es/lmsxi](https://resuacode.es/lmsxi)
+
+## Requisitos
 
 - Node.js ≥ 18.x
-- npm o yarn
+- npm
 
-## 🛠️ Instalación
-
-Clona el repositorio y ejecuta:
+## Instalación
 
 ```bash
 npm install
 npm run start
-````
+```
 
-Esto iniciará un servidor de desarrollo en `http://localhost:3000`.
+El servidor de desarrollo queda en `http://localhost:3000/lmsxi/`.
 
-## 🏗️ Estructura del proyecto
+## Estructura del proyecto
 
 ```
 .
-├── docs/               # Documentación en Markdown/MDX
-│   ├── lm/             # Lenguajes de Marcas
-│   ├── ed/             # Entornos de Desarrollo
-│   └── ...
-├── src/                # Archivos fuente adicionales (componentes, temas)
-├── static/             # Archivos estáticos (imágenes, PDF, etc.)
-├── docusaurus.config.js
-├── sidebars.js
+├── docs/               # Documentación en Markdown/MDX (UD1–UD7)
+├── src/                # Páginas y componentes
+├── static/             # Imágenes, PDF y otros estáticos
+├── scripts/            # Utilidades (p. ej. exportación a PDF)
+├── docusaurus.config.ts
+├── sidebars.ts
 └── ...
 ```
 
-## 🧪 Comandos útiles
+## Comandos útiles
 
 ```bash
 npm run start      # Desarrollo local
 npm run build      # Generar sitio estático en /build
-npm run serve      # Servir sitio build (preview)
+npm run serve      # Servir el build (preview)
 ```
 
-## 🚀 Despliegue
+## Despliegue
 
-Este proyecto puede desplegarse fácilmente con:
+Despliegue automático en GitHub Pages con cada push a `main` (workflow `.github/workflows/deploy.yml`).
 
-- [Vercel](https://vercel.com/)
-- GitHub Pages
-- Netlify
+URL de producción: `https://resuacode.es/lmsxi/`
 
-La configuración actual está orientada a despliegue automático con Vercel.
+## Autor
 
-## 🧑‍🏫 Autor
+Daniel Resúa — [resuacode](https://github.com/resuacode)
 
-Daniel Martiñán Otero
-Profesor del cuerpo de Informática
-📧 [danielmartinan@edu.xunta.gal](mailto:danielmartinan@edu.xunta.gal)
+## Licencia
 
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).

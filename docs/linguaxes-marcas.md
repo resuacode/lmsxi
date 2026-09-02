@@ -1,6 +1,6 @@
 # Linguaxes de Marcas e Sistemas de Xestión da Información
 
-En esta sección podrás encontrar apuntes sobre los contenidos del módulo de Linguaxes de Marcas e Sistemas de Xestión da Información, de los Ciclos Formativos de Grado Superior de Desenvolvemento de Aplicacións Web e Administración de Sistemas Informaticos en Rede.
+En esta sección podrás encontrar apuntes sobre los contenidos del módulo de Linguaxes de Marcas e Sistemas de Xestión da Información del Ciclo Formativo de Grado Superior de Desenvolvemento de Aplicacións Web (DAW), curso 2026-27.
 
 ## Unidades didácticas
 
@@ -16,17 +16,17 @@ A continuación se detallan las unidades didácticas que componen el módulo:
 
 ## Calendario de apertura de unidades didácticas
 
-A continuación se muestra el calendario previsto para la apertura de las unidades didácticas a lo largo del curso:
+A continuación se muestra el calendario previsto para la apertura de las unidades didácticas a lo largo del curso (fechas provisionales; se confirmarán al inicio del curso):
 
 | Unidad Didáctica | Sesiones | % Peso | Fecha de apertura | Fecha de cierre |
 |------------------|-----------|---------|-------------------|-----------------|
-| UD1: Introducción a los lenguajes de marcas. Sintaxis XML | 25 | 15% | 11 septiembre 2025 | 16 octubre 2025 |
-| UD2: Introducción a los lenguajes de marcas en las tecnologías web. HTML y CSS | 20 | 20% | 17 octubre 2025 | 21 noviembre 2025 |
-| UD3: Introducción a los lenguajes de scripting en el lado del cliente. JavaScript | 25 | 20% | 22 noviembre 2025 | 13 enero 2026 |
-| UD4: Definición de esquemas y vocabularios. XSD | 15 | 15% | 14 enero 2026 | 13 febrero 2026 |
-| UD5: Conversión y adaptación de documentos XML | 15 | 12% | 14 febrero 2026 | 19 marzo 2026 |
-| UD6: Almacenamiento de información | 15 | 15% | 20 marzo 2026 | 23 abril 2026 |
-| UD7: Introducción a los sistemas de gestión empresarial | 9 | 3% | 24 abril 2026 | 15 mayo 2026 |
+| UD1: Introducción a los lenguajes de marcas. Sintaxis XML | 25 | 15% | 10 septiembre 2026 | 15 octubre 2026 |
+| UD2: Introducción a los lenguajes de marcas en las tecnologías web. HTML y CSS | 20 | 20% | 16 octubre 2026 | 20 noviembre 2026 |
+| UD3: Introducción a los lenguajes de scripting en el lado del cliente. JavaScript | 25 | 20% | 21 noviembre 2026 | 12 enero 2027 |
+| UD4: Definición de esquemas y vocabularios. XSD | 15 | 15% | 13 enero 2027 | 12 febrero 2027 |
+| UD5: Conversión y adaptación de documentos XML | 15 | 12% | 13 febrero 2027 | 18 marzo 2027 |
+| UD6: Almacenamiento de información | 15 | 15% | 19 marzo 2027 | 22 abril 2027 |
+| UD7: Introducción a los sistemas de gestión empresarial | 9 | 3% | 23 abril 2027 | 14 mayo 2027 |
 
 ## Mínimos exigibles y criterios de calificación
 
@@ -34,10 +34,10 @@ Los mínimos exigibles son los señalados como tal en cada uno de los criterios 
 
 Criterios de calificación:
 
-- Por cuestiones organizativas del centro, a fin de poder reservar y organizar los espacios y recursos necesarios para la realización de cada examen, será necesario obtener previamente la información del número de alumnado que asistirá al examen. De esta forma, la realización de cada prueba o examen de evaluación estará sujeta a la inscripción previa a la misma mediante la realización de un formulario de inscripción que estará colgado en el aula virtual a distancia de la tutoría del ciclo al que pertenece el módulo. El alumnado que no se inscriba en el formulario, no tendrá acceso al mismo. Este formulario estará abierto en el aula virtual de distancia de la tutoría una cantidad de días con anterioridad suficientes para la correcta realización por parte del alumnado.
+- Por cuestiones organizativas del centro, a fin de poder reservar y organizar los espacios y recursos necesarios para la realización de cada examen, será necesario obtener previamente la información del número de alumnado que asistirá al examen. La realización de cada prueba o examen de evaluación estará sujeta a la inscripción previa mediante el procedimiento que se indique en el aula virtual del módulo. El alumnado que no se inscriba no tendrá acceso al mismo. El plazo de inscripción se anunciará con la antelación suficiente.
 - Como instrumentos de evaluación se podrán emplear:
-  - **Pruebas escritas de carácter teórico o práctico**: pruebas de tipo test o con preguntas de desarrollo  contenidos de la unidad didáctica.
-  - **Pruebas prácticas**: realización de ejercicios viculados con los contenidos de la unidad didáctica, realizados en papel o sobre el ordenador.
+  - **Pruebas escritas de carácter teórico o práctico**: pruebas de tipo test o con preguntas de desarrollo de contenidos de la unidad didáctica.
+  - **Pruebas prácticas**: realización de ejercicios vinculados con los contenidos de la unidad didáctica, realizados en papel o sobre el ordenador.
   - **Tareas entregables**.
 - La calificación de cada una de las evaluaciones ordinarias se expresará en valores enteros de 1 a 10.
 - Una evaluación se considerará superada si la calificación alcanzada es **igual o superior a 5**.
@@ -45,7 +45,7 @@ Criterios de calificación:
   - 10% de la nota de las tareas entregables realizadas durante el curso.
   - 90% de la nota del examen.
 - En cada examen se indicará con detalle el cálculo de la calificación, en base a las unidades didácticas incluidas en el mismo.
-- Para superar el módulo, es necesario superar las tres evaluaciones. De no ser así, deberá superar en la prueba final de junio los contenidos de las evaluaciones no superadas (ver apartado 6 con procedimiento para la recuperación de las partes no superadas).
+- Para superar el módulo, es necesario superar las tres evaluaciones. De no ser así, deberá superar en la prueba final de junio los contenidos de las evaluaciones no superadas (ver apartado con procedimiento para la recuperación de las partes no superadas).
 - En cuanto a la calificación final del módulo, se calculará haciendo la media (ponderada con el peso de cada UD en la calificación) de las calificaciones obtenidas en cada evaluación ordinaria.
 
 ## Procedimiento para la recuperación de las partes no superadas

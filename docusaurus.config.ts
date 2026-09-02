@@ -7,20 +7,20 @@ import rehypeKatex from 'rehype-katex';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Linguaxes de Marcas e Sistemas de Xestión da Información. Curso 2025-26',
-  tagline: 'Contenido para el curso de Linguaxes de Marcas e Sistemas de Xestión da Información, de los CFGS de Desenvolvemento de Aplicacións Web e Administración de Sistemas Informáticos en Rede.',
+  title: 'Linguaxes de Marcas e Sistemas de Xestión da Información. Curso 2026-27',
+  tagline: 'Contenido para el curso de Linguaxes de Marcas e Sistemas de Xestión da Información del CFGS de Desenvolvemento de Aplicacións Web (DAW).',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://resuacode.es',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/lmsxi/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'resuacode', // Usually your GitHub org/user name.
+  projectName: 'lmsxi', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -55,9 +55,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'LMSXI 2025-26',
+      title: 'LMSXI 2026-27',
       logo: {
-        alt: 'My Logo',
+        alt: 'LMSXI',
         src: 'img/favicon.ico',
       },
       items: [
@@ -72,21 +72,34 @@ const config: Config = {
       style: 'dark',
       links: [
         {
+          title: 'Docs',
+          items: [
+            {
+              label: 'Inicio',
+              to: '/docs/linguaxes-marcas',
+            },
+          ],
+        },
+        {
           title: 'Más',
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/danielmartinan',
+              href: 'https://github.com/resuacode',
+            },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/@resuacode',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} by Daniel Martiñán.<br>Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} resuacode by Daniel Resúa.<br>Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
-      additionalLanguages: ['java'], // 👈 asegurate de que 'java' esté incluido
+      additionalLanguages: ['java'],
     },
   } satisfies Preset.ThemeConfig,
 
