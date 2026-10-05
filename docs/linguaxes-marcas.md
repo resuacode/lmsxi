@@ -21,12 +21,12 @@ A continuación se muestra el calendario previsto para la apertura de las unidad
 | Unidad Didáctica | Sesiones | % Peso | Fecha de apertura |
 |------------------|-----------|---------|-------------------|
 | UD1: Introducción a los lenguajes de marcas. Sintaxis XML | 25 | 15% | 10 septiembre 2026 |
-| UD2: Introducción a los lenguajes de marcas en las tecnologías web. HTML y CSS | 20 | 20% | 16 octubre 2026 | 
-| UD3: Introducción a los lenguajes de scripting en el lado del cliente. JavaScript | 25 | 20% | 21 noviembre 2026 | 
-| UD4: Definición de esquemas y vocabularios. XSD | 15 | 15% | 13 enero 2027 |
-| UD5: Conversión y adaptación de documentos XML | 15 | 12% | 13 febrero 2027 |
-| UD6: Almacenamiento de información | 15 | 15% | 19 marzo 2027 |
-| UD7: Introducción a los sistemas de gestión empresarial | 9 | 3% | 23 abril 2027 |
+| UD2: Introducción a los lenguajes de marcas en las tecnologías web. HTML y CSS | 20 | 20% | 5 octubre 2026 | 
+| UD3: Introducción a los lenguajes de scripting en el lado del cliente. JavaScript | 25 | 20% | 2 noviembre 2026 | 
+| UD4: Definición de esquemas y vocabularios. XSD | 15 | 15% | 1 diciembre 2026 |
+| UD5: Conversión y adaptación de documentos XML | 15 | 12% | 18 enero 2027 |
+| UD6: Almacenamiento de información | 15 | 15% | 8 marzo 2027 |
+| UD7: Introducción a los sistemas de gestión empresarial | 9 | 3% | 12 abril 2027 |
 
 ## Mínimos exigibles y criterios de calificación
 
